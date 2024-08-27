@@ -16,7 +16,6 @@ This system is designed as an interactive and content management system. The sys
 with data entry, validation confirm and updating while the interactive system deals with
 system interaction with the administration and users. Thus, above features of this project will
 save transaction time and therefore increase the efficiency of the system.
-Page
 
 
 

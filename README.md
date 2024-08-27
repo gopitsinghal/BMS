@@ -30,11 +30,11 @@ the user enters the right details, then it would print successful messages, resp
 2) Register: If you do not have an ID and you wish to create one, this can be done using the
 register option.
 3) Exit: This option is used if the user wants to exit the program.
-o WHAT HAPPENS IF THE USER ENTERS THE WRONG USERNAME
+    WHAT HAPPENS IF THE USER ENTERS THE WRONG USERNAME
 AND PASSWORD?
-If the user enters the wrong username and password, then he/she would to be again asked to
-enter a choice from the three options (login, register, exit).
-o AFTER THE USER IS LOGGED IN:
+    If the user enters the wrong username and password, then he/she would to be again asked to
+    enter a choice from the three options (login, register, exit).
+    AFTER THE USER IS LOGGED IN:
 If the user enters the username and password correctly, then he/she would be directed to a
 new menu (menu.py) having six options stated below:
 1. Create bank account: The user can create a new bank account using this option, then

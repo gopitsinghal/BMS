@@ -1,7 +1,7 @@
-# BMS
-Bank Management Systems
+# FinTrak
+
 INTRODUCTION
-BANK MANAGEMENT SYSTEM is a program that keeps track of a client’s bank
+Fintrak is a BANK MANAGEMENT SYSTEM program that keeps track of a client’s bank
 account. This project demonstrates the operation of a banking account system and covers the
 essential functions of bank management software. It develops a project for resolving a
 customer’s financial applications in a banking environment to meet the needs of an end

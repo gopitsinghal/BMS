@@ -1,6 +1,7 @@
 # FinTrak
 
-INTRODUCTION
+INTRODUCTION:
+
 Fintrak is a BANK MANAGEMENT SYSTEM program that keeps track of a client’s bank
 account. This project demonstrates the operation of a banking account system and covers the
 essential functions of bank management software. It develops a project for resolving a
@@ -20,7 +21,8 @@ save transaction time and therefore increase the efficiency of the system.
 
 
 
-DESCRIPTION
+DESCRIPTION:
+
 • The Bank Management System (BMS) makes the managing of accounts easier. This project
 has been created with various checks like if the program is connected to MySQL database
 successfully then it would print the message successfully connected, for each option and if
